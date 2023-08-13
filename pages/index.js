@@ -3,7 +3,9 @@ export default function Home() {
   <>
     <h1> Apresentação - Arthur Borio</h1>
     <div>
-      <a href="teste.pptx">Download da Apresentação</a>
+      <a href="/teste.pptx" download="arthur-borio">
+        Download da Apresentação
+      </a>
     </div>
   </>;
 }
